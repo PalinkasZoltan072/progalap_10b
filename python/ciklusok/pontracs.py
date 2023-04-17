@@ -1,0 +1,11 @@
+n = int(input("n: "))
+# #sorok kiiratasa
+# for i in range(1, n+1):
+#     #egy sor kiirasa
+#     for j in range(0, n+1):
+#         print(i  - j, end=" ")
+#     print()
+
+
+for j in range(1, 50+1):
+    print("."*j)
