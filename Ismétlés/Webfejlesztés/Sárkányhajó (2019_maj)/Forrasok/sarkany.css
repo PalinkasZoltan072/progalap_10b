@@ -37,7 +37,8 @@ p{
   background-image: url('fatyol.png');
   border-radius: 25px;
   overflow: hidden;
-  box-shadow: 10px 10px 10px gray;  
+  box-shadow: 10px 10px 10px gray;
+  border: 2px darkblue solid;  
 }
 
 .kepkeret img{
@@ -49,4 +50,9 @@ p{
 
 a{
   text-decoration: none;
+  font-weight: bold;
+}
+li{
+  margin-bottom: 25px
+  ;
 }
